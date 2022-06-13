@@ -1,0 +1,8 @@
+FirstName,LastName,Gender,DateOfBirth,PhoneNumber,BirthPlace,Age,IsGraduated,FullName
+Giang,Vu Hoang Truong,Male,12/26/1997 12:00:00 AM,,Hai Phong,25,False,Giang Vu Hoang Truong
+Hai,Pham Duc,Male,12/26/1997 12:00:00 AM,,,25,False,Hai Pham Duc
+An,Duong Di,Male,6/28/2001 12:00:00 AM,,,21,False,An Duong Di
+Anh,Dang Tuan,Male,12/26/1997 12:00:00 AM,,,25,False,Anh Dang Tuan
+Anh,Nguyen Hoang,Male,11/25/2001 12:00:00 AM,,Hai Phong,21,False,Anh Nguyen Hoang
+Toan,Ngo Huu,Male,11/25/2001 12:00:00 AM,,Hai Phong,21,False,Toan Ngo Huu
+A,miss,Female,11/25/2001 12:00:00 AM,,Hai Phong,21,False,A miss
