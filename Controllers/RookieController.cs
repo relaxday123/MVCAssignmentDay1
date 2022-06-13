@@ -98,14 +98,14 @@ namespace b1.Controllers
                                             new DataColumn("PhoneNumber"),
                                             new DataColumn("BirthPlace"),
                                             new DataColumn("IsGraduated") });
-    
+
             var customers = _personService.GetAll();
-    
+
             foreach (var customer in customers)
             {
                 dt.Rows.Add(customer.FirstName, customer.LastName, customer.Gender, customer.DateOfBirth, customer.PhoneNumber, customer.BirthPlace, customer.IsGraduated);
             }
-    
+
             using (XLWorkbook wb = new XLWorkbook())
             {
                 wb.Worksheets.Add(dt);

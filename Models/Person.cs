@@ -26,7 +26,7 @@ namespace b1.Models
                 return DateTime.Now.Year - DateOfBirth.Year;
             }
         }
-        
+
         public bool IsGraduated { get; set; }
 
         public string FullName

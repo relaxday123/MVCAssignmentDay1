@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\My Drive\\nash\\asp.net core MVC\\b1\\b1.csproj": {}
+    "i:\\My Drive\\nash\\asp.net core MVC\\b1\\b1.csproj": {}
   },
   "projects": {
-    "I:\\My Drive\\nash\\asp.net core MVC\\b1\\b1.csproj": {
+    "i:\\My Drive\\nash\\asp.net core MVC\\b1\\b1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\My Drive\\nash\\asp.net core MVC\\b1\\b1.csproj",
+        "projectUniqueName": "i:\\My Drive\\nash\\asp.net core MVC\\b1\\b1.csproj",
         "projectName": "b1",
-        "projectPath": "I:\\My Drive\\nash\\asp.net core MVC\\b1\\b1.csproj",
+        "projectPath": "i:\\My Drive\\nash\\asp.net core MVC\\b1\\b1.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "I:\\My Drive\\nash\\asp.net core MVC\\b1\\obj\\",
+        "outputPath": "i:\\My Drive\\nash\\asp.net core MVC\\b1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
